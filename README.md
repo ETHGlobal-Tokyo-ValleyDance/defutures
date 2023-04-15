@@ -48,9 +48,8 @@ Security level management: DeFi is finance. It heavily associates with money, wh
 
 
 ## Before Maturaity & After Maturaity
-<img width="1824" alt="Untitled (4)" src="https://user-images.githubusercontent.com/59263564/232258787-9e616aa7-935c-43a9-8ee8-2bd92dba270f.png">
  
 
 ## Defuture has a great potential for expansion
-<img width="80%" src="https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures-contract/issues/13"/>
+<img width="1824" alt="Untitled (4)" src="https://user-images.githubusercontent.com/59263564/232258787-9e616aa7-935c-43a9-8ee8-2bd92dba270f.png">
 
