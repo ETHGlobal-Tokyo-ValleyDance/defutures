@@ -1,0 +1,3 @@
+[submodule "defutures-contract"]
+	path = defutures-contract
+	url = https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures-contract
