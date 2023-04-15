@@ -41,7 +41,7 @@ The big picture of this product it to allow users to buy stability, broadening c
 
 Futures Price Formation : As mentioned earlier, a pair is instantiated using the AMM from the DeFi protocol defutures is added on. However, these two are distinct from another and one does not necessarily affect the other in certain cases. Several complex simulations involving compound numeric values had to be dealt with until we could prove the possibility of arbitrage between the two pairs, resulting to convergence from one another.
 
-Security level management: DeFi is finance. It heavily associates with money, where security is most demanded. We had to think of scenarios from scratch where security features should be added especially as futures involve complex mechanisms. Moreover, every functions were designed to be extremely explicit leaving no room for security issues. 
+Security level management: DeFi is finance. It heavily associates with money, where security is most demanded. We had to think of scenarios from scratch where security features should be added especially as futures involve complex mechanisms. Moreover, every functions were designed to be extremely explicit leaving no room for security issues.     
 
 ## User Flow 
 <img width="80%" src="https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures-contract/issues/11"/>
