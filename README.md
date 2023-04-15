@@ -5,7 +5,7 @@
 
 ### Problem
 
-In the recent years, the popularity of futures trading exploded as it returned highest yields, especially in the world of DeFi where high fluctuations exists. Futures trading is proven to provide stability by its hedging mechanism and at the same time maintaining high profit when chosen the right volatility. However, the appearance of futures trading resulted DeFi users to lean more towards profitability in trading that exposes their positions to the heightened price volatility. High gas costs resulted for syncing off-chain data inevitable as well, resulting in a less decentralized dapp, counterfeiting blockchain’s main functions. 
+In the recent years, the popularity of futures trading exploded as it returned highest yields, especially in the world of DeFi where high fluctuations exists. Futures trading is proven to provide stability by its hedging mechanism and at the same time maintaining high profit when chosen the right volatility. However, the appearance of futures trading resulted DeFi users to lean more towards profitability in trading that exposes their positions to the heightened price volatility. High gas costs resulted for syncing off-chain data inevitable as well, resulting in a less decentralized dapp, counterfeiting blockchain’s main functions.     
 
 ### Solution
 
