@@ -4,3 +4,6 @@
 [submodule "defutures-frontend"]
 	path = defutures-frontend
 	url = https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures-frontend
+[submodule "defutures-backend"]
+	path = defutures-backend
+	url = https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures-backend
