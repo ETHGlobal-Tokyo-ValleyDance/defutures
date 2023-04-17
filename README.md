@@ -1,11 +1,13 @@
 # Welcome to DeFutures
 
+[Our Website](http://eth-tokyo-defutures.s3-website-ap-northeast-1.amazonaws.com/)
+
+
 - To maximize the user's investment experience, we designed the platform to enable DEX investments and hedging positions with a single ERC20 asset in a single transaction.
 - As the hedging products target users who are new to crypto, we designed a user-friendly interface that clearly shows how the user's actions affect their investment returns and risks.
 - To calculate values such as strike amount, margin ratio, and tolerance in real-time based on the user's input, we chose to perform complex calculations directly on the front-end instead of fetching pre-computed values from the blockchain.
 - We utilized a Typescript-focused technology stack to enable all builders to share their products and provide constructive feedback to each other.
 
-[Our Website](http://eth-tokyo-defutures.s3-website-ap-northeast-1.amazonaws.com/)
 
 ## Inspiration
 
